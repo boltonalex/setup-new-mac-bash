@@ -2,7 +2,7 @@
 
 Run this bash script:
 
-`curl -o- myfilepath/install.sh | bash`
+`curl -o- https://github.com/boltonalex/setup-new-mac-bash/blob/master/setup-new-mac.sh| bash`
 
 To set up a fresh mac with the following software and settings:
 
